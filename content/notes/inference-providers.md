@@ -7,7 +7,7 @@ tags:
   - ai
 draft: false
 created: 2026-08-21T17:14
-updated: 2026-09-20T14:41
+updated: 2026-09-20T14:43
 ---
 A list of inference providers with good value for money token pricing and some inference provider which provide cheap models and cool models like dLLMs
 
@@ -15,7 +15,7 @@ A list of inference providers with good value for money token pricing and some i
 | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Cerebras**                   | Developer Tier \$10 min deposit, Pay-As-You-Go (~\$0.35 in / \$0.75 out per 1M tokens on GPT-OSS-120B). Standard card billing.                           | Uses custom Wafer-Scale Engine hardware delivering ultra-high throughput (~1,800 to 3,000 tokens/sec) on hosted models like GPT-OSS and Gemma. OpenAI-compatible API.                 |
 | **Groq**                       | Free Tier Free access with rate limits (up to 30 RPM, 6k–30k TPM depending on model). Pay-As-You-Go Standard Stripe token rates without extra surcharge. | Runs on proprietary LPU (Language Processing Unit) silicon optimized for low latency and high generation speeds (500–800 tokens/sec) across Llama, Qwen, and DeepSeek variants.       |
-| **OpenCode Go**                | Subscription \$10/month ($5 first month). Usage allowance caps at \$12/5h, \$30/week, and \$60/month nominal usage value.                                | Managed subscription inside OpenCode providing access to 18 curated open-source models (DeepSeek, Qwen-Coder, Kimi, GLM, MiniMax) without requiring individual third-party API keys.  |
+| **OpenCode Go**                | Subscription \$10/month (\$5 first month). Usage allowance caps at \$12/5h, \$30/week, and \$60/month nominal usage value.                               | Managed subscription inside OpenCode providing access to 18 curated open-source models (DeepSeek, Qwen-Coder, Kimi, GLM, MiniMax) without requiring individual third-party API keys.  |
 | **OpenCode Zen**               | Pay-As-You-Go \$20 starting balance. Model tokens passed at zero markup + credit card processing fee (4.4% + \$0.30 per transaction).                    | Managed PAYG gateway within OpenCode offering access to frontier proprietary models (Claude 3.5/3.7 Sonnet, GPT-4o, Gemini 1.5/2.0 Pro) and free community endpoints.                 |
 | **OpenRouter**                 | Prepaid Pay-As-You-Go Model token pass-through pricing + 5.5% transaction fee (\$0.80 minimum fee per deposit). Min deposit \$5.                         | Universal API gateway aggregator providing access to hundreds of both proprietary (Anthropic Claude, OpenAI GPT, Google Gemini) and open-weights models through a single API key.     |
 | **Together AI**                | Pay-As-You-Go Standard Stripe billing (no transaction surcharge). Includes \$5 free starting credit.                                                     | Large decentralized AI cloud hosting 200+ open-source models, multimodal engines, and custom fine-tuning endpoints via a single unified API.                                          |
