@@ -1,10 +1,10 @@
 ---
 title: "{{title}}"
-description: 
-aliases: 
+description:
+aliases:
 tags:
   - fragment
 draft: true
-created: 
-updated:
+created: 2026-09-20T14:43
+updated: 2026-09-20T14:52
 ---

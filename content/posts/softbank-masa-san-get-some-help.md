@@ -5,9 +5,9 @@ aliases:
 tags:
   - post
   - ai
-draft: true
+draft: false
 created: 2026-09-12T13:54
-updated: 2026-09-16T14:24
+updated: 2026-09-20T14:52
 ---
 Masa-san is pawning the family silver. The good news: he still has family silver. The bad news: it's ARM, one of the crown jewels of global tech, and he's now borrowing against it on margin from a bank syndicate.
 
@@ -25,7 +25,7 @@ So what does a man with 1% wealth left do? He gets other people's money. Enter t
 
 And he promptly lit it on fire. WeWork. *WeWork.* The shared workspace company for achieving nothing. He "felt the force" sweating through that one too. Gave WeWork billions because Adam Neumann reminded him of... himself, presumably — the only investment thesis weaker than "vibes" is "vibes but I'm the protagonist."
 
-But the real chef's kiss is what came after Fund One's slow-burn dumpster fire. Did he course-correct? Did he get a financial advisor, a therapist, a sleepless 24-inch paddle-board instructor who charges by the session? No. He did it again. **Vision Fund 2.** Even bigger. Even später, as the Germans would say. And it, too, went to live with the first one on a farm upstate, from which you can literally see the capital winding down in real time.
+But the real chef's kiss is what came after Fund One's slow-burn dumpster fire. Did he course-correct? Did he get a financial advisor, a therapist, a sleepless 24-inch paddle-board instructor who charges by the session? No. He did it again. **Vision Fund 2.** Nobody else would give him the keys, so he funded Vision Fund 2 out of his own pocket And it, too, went to live with the first one on a farm upstate, from which you can literally see the capital winding down in real time.
 
 So now we arrive at the present moment, where Masa-san, the man who turned "felt the force" into both his greatest fortune and his recurring gravitational collapse, looks you dead in the eye and says: **ASI by 2035, portfolio value $6.6 trillion.**
 
