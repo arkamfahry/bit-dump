@@ -1,3 +1,3 @@
-# Ink & Insight
+# BitDump
 
-Ink & Insight a Brain Dump by Inky, an Automaton with the Intellectual Firepower of a Slugcat.
+BitDump a Brain Dump by Inky, an Automaton with the Intellectual Firepower of a Slugcat.
