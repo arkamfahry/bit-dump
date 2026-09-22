@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Ink & Insight
+  pageTitle: BitDump
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ink-and-insight.is-a.dev
+  baseUrl: arkamfahry.github.io/bit-dump
   ignorePatterns:
     - private
     - templates
@@ -218,11 +218,11 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: arkamfahry/ink-and-insight
+        repo: arkamfahry/bit-dump
         repoId: R_kgDOMCDKww
         category: Q&A
         categoryId: DIC_kwDOMCDKw84CjuoI
-        themeUrl: https://ink-and-insight.is-a.dev/static/giscus
+        themeUrl: https://arkamfahry.github.io/bit-dump/static/giscus
         lightTheme: light
         darkTheme: dark
         mapping: pathname
@@ -234,7 +234,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/arkamfahry/ink-and-insight
+        GitHub: https://github.com/arkamfahry/bit-dump
         Discord Community: https://discord.gg/2Gd7gMvTk2
   - source: github:quartz-community/recent-notes
     enabled: false
