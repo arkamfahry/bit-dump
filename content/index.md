@@ -1,9 +1,9 @@
 ---
-title: Welcome To Ink & Insight
+title: Welcome To BitDump
 tags:
   - home
 created: 2024-12-16T17:46
-updated: 2026-09-13T13:49
+updated: 2026-09-22T06:44
 ---
 ---
 
@@ -11,7 +11,7 @@ updated: 2026-09-13T13:49
 
 ---
 
-Ink & Insight a Brain Dump by Inky, an Automaton with the Intellectual Firepower of a Slugcat.
+BitDump a Brain Dump by Inky, an Automaton with the Intellectual Firepower of a Slugcat.
 
 ---
 
