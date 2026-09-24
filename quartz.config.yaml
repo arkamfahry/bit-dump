@@ -240,7 +240,26 @@ plugins:
     enabled: true
     options:
       title: "Recent Writing"
-      limit: 5                     
+      limit: 3
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: left
+      priority: 60
+      display: desktop-only
+  - source: github:quartz-community/recent-notes
+    enabled: true
+    options:
+      title: "Recent Writing"
+      limit: 3
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: afterBody
+      priority: 5
+      display: mobile-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
