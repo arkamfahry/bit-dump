@@ -237,7 +237,10 @@ plugins:
         GitHub: https://github.com/arkamfahry
         Discord Community: https://discord.gg/2Gd7gMvTk2
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: "Recent Writing"
+      limit: 5                     
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
