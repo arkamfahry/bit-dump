@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: arkamfahry.is-a.dev
+  baseUrl: arkamfahry.github.io/bit-dump
   ignorePatterns:
     - private
     - templates
@@ -222,7 +222,7 @@ plugins:
         repoId: R_kgDOMCDKww
         category: Q&A
         categoryId: DIC_kwDOMCDKw84CjuoI
-        themeUrl: https://arkamfahry.is-a.dev/static/giscus
+        themeUrl: https://arkamfahry.github.io/bit-dump/static/giscus
         lightTheme: light
         darkTheme: dark
         mapping: pathname
