@@ -1,5 +1,5 @@
 ---
-title: Welcome To BitDump
+title: BitDump
 tags:
   - home
 created: 2024-12-16T17:46
